@@ -1,0 +1,1 @@
+include ':app', ':ndkDemo', ':core5_customview', ':core5_surfaceview', ':core5_customlistview', ':core5_customlayout', ':core5_popupwindow', ':core5_reflect', ':core5_junittest', 'AndroidAnnotations', ':BarCodeTest', ':apk', ':liveRtmpPushSDK'

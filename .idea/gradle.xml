@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidAnnotations" />
+            <option value="$PROJECT_DIR$/BarCodeTest" />
+            <option value="$PROJECT_DIR$/apk" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core5_customlayout" />
+            <option value="$PROJECT_DIR$/core5_customlistview" />
+            <option value="$PROJECT_DIR$/core5_customview" />
+            <option value="$PROJECT_DIR$/core5_junittest" />
+            <option value="$PROJECT_DIR$/core5_popupwindow" />
+            <option value="$PROJECT_DIR$/core5_reflect" />
+            <option value="$PROJECT_DIR$/core5_surfaceview" />
+            <option value="$PROJECT_DIR$/liveRtmpPushSDK" />
+            <option value="$PROJECT_DIR$/ndkDemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

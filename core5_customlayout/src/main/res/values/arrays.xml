@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image1">
+        <item>@drawable/logo1</item>
+        <item>@drawable/logo2</item>
+        <item>@drawable/logo3</item>
+        <item>@drawable/logo4</item>
+    </string-array>
+    <string-array name="image2">
+        <item>@drawable/icon_location</item>
+        <item>@drawable/logo4</item>
+    </string-array>
+</resources>

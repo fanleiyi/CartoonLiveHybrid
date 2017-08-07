@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAnnotations/AndroidAnnotations.iml" filepath="$PROJECT_DIR$/AndroidAnnotations/AndroidAnnotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BarCodeTest/BarCodeTest.iml" filepath="$PROJECT_DIR$/BarCodeTest/BarCodeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CartoonLiveHybrid.iml" filepath="$PROJECT_DIR$/CartoonLiveHybrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apk/apk.iml" filepath="$PROJECT_DIR$/apk/apk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_customlayout/core5_customlayout.iml" filepath="$PROJECT_DIR$/core5_customlayout/core5_customlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_customlistview/core5_customlistview.iml" filepath="$PROJECT_DIR$/core5_customlistview/core5_customlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_customview/core5_customview.iml" filepath="$PROJECT_DIR$/core5_customview/core5_customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_junittest/core5_junittest.iml" filepath="$PROJECT_DIR$/core5_junittest/core5_junittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_popupwindow/core5_popupwindow.iml" filepath="$PROJECT_DIR$/core5_popupwindow/core5_popupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_reflect/core5_reflect.iml" filepath="$PROJECT_DIR$/core5_reflect/core5_reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core5_surfaceview/core5_surfaceview.iml" filepath="$PROJECT_DIR$/core5_surfaceview/core5_surfaceview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" filepath="$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkDemo/ndkDemo.iml" filepath="$PROJECT_DIR$/ndkDemo/ndkDemo.iml" />
+    </modules>
+  </component>
+</project>

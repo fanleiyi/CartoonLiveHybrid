@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\note\app\CartoonLiveHybrid\BarCodeTest\libs"><file name="zxing.jar" path="E:\note\app\CartoonLiveHybrid\BarCodeTest\libs\zxing.jar"/></source></dataSet><dataSet config="release"><source path="E:\note\app\CartoonLiveHybrid\BarCodeTest\src\release\jniLibs"/></dataSet></merger>

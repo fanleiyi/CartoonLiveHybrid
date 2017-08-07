@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:AnimationView="http://schemas.android.com/apk/res-auto"
+    xmlns:ShadeView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.fanleiyi.tarena.core5_customlayout.MainActivity">
+
+    <com.fanleiyi.tarena.core5_customlayout.CenterLayout
+        android:id="@+id/centerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<com.fanleiyi.tarena.core5_customlayout.AnimationView
+        AnimationView:sleep_time="100"
+        AnimationView:images="@array/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <com.fanleiyi.tarena.core5_customlayout.AnimationView
+        AnimationView:sleep_time="100"
+        AnimationView:images="@array/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <com.fanleiyi.tarena.core5_customlayout.AnimationView
+        AnimationView:sleep_time="100"
+        AnimationView:images="@array/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <com.fanleiyi.tarena.core5_customlayout.AnimationView
+        AnimationView:sleep_time="100"
+        AnimationView:images="@array/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    </com.fanleiyi.tarena.core5_customlayout.CenterLayout>
+</LinearLayout>
